@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there, my name's Timi and I'm trying to learn how to code and use github. I'm currently working on building a webscraper python project.
+
 
 <!--
 **Ojosneaks/Ojosneaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
