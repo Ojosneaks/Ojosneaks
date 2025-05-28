@@ -1,4 +1,4 @@
-## Hello there, my name's Oluwarotimi and I'm trying to learn how to code and use github. I'm currently learning front end web development
+##Let's get to it shall we.
 
 
 <!--
